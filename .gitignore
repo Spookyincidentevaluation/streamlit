@@ -1,0 +1,6 @@
+# Example .gitignore
+*.pt
+*.h5
+*.onnx
+/models/
+/datasets/
